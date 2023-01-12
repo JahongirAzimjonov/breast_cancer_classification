@@ -1,0 +1,11 @@
+,Precision,Re-Call,F1-Score,Support
+Benign,1.0,0.6301,0.7731,73
+Malignant,0.64,1.0,0.7805,48
+-----,-----,-----,-----,-----
+Accuracy,,,0.7769,121
+Macro AVG,0.82,0.8151,0.7768,121
+Weighted AVG,0.8572,0.7769,0.776,121
+-----,-----,-----,-----,-----
+Training Time,11.791,-----,-----,-----
+Test Time-All Packets,0.135,-----,-----,-----
+Test Time-Per Packet,0.001113,-----,-----,-----
